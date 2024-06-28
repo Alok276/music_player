@@ -2,12 +2,19 @@
 
 # Install java_sdk
 
+**Versions Used**
 **[√]**  Flutter (Channel stable, 3.22.1, on Microsoft Windows [Version 10.0.22631.3737] )
+
 **[√]**  Windows Version (Installed version of Windows is version 10 or higher)
+
 **[√]**  Android toolchain - develop for Android devices (Android SDK version 35.0.0)
+
 **[√]**  Developed for Android 
+
 **[√]**  Visual Studio - develop Windows apps (Visual Studio Community 2022 17.6.4)
+
 **[√]**  Android Studio (version 2022.2)
+
 **[√]**  Dart SDK version: 3.4.1 (stable) 
 
 # music_player
